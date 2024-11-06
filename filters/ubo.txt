@@ -1,0 +1,37 @@
+! 2023-12-21 https://aabook.cyou
+
+*##.f63092
+
+*##.f63093
+
+*###GGADIMG
+
+*##div.block.mod:has-text("鎬х瀹�")
+
+*##div.block.mod:has-text("鎺ㄨ崘")
+
+*##.clearfix.footer-fixed-nav
+
+! 2023-10-08 https://www.laowang2222.com
+
+www.laowang2222.com##posts.card.ajax-item.posts-item:has-text(缃《)
+
+! 2023-10-22 https://www.yxssp.com
+
+www.yxssp.com##div.td-animation-stack.td_module_wrap.td_module_4:has-text(寰楃墿)
+
+www.yxssp.com##div.td-animation-stack.td_module_wrap.td_module_4:has-text(缃《)
+
+! 2023-10-22 https://www.lan-sha.com
+
+www.lan-sha.com##.post-item-container:has-text(缃《)
+
+! 2023-10-29 https://ddkanqiu.net
+
+ddkanqiu.net##.container.footerimg
+
+! 2023-12-22 https://hongxiuzhao.org
+
+||prizebrid.com/*.js$script
+
+!||prizebrid.com/app/*.js$script
