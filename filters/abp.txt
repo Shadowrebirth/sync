@@ -1,9 +1,73 @@
-www.yxssp.com##.td_module_4:has(a[title*="置顶"])
-aabook.cyou###o63092
-aabook.cyou###o63093
-aabook.cyou##div[style*="position: -webkit-sticky; position: sticky"]
-aabook.cyou##.footer-fixed-nav
-aabook.cyou##.mod:has(a[href^="https://xinfubao.site"])
-aabook.cyou###GGADIMG
-www.423down.com##.item:has(.sticky-post)
-www.ghxi.com##.item-sticky:has(.sticky-post)
+! 2026年5月24日 https://www.qy0.ru
+www.qy0.ru##li.gallary_item.li:-abp-contains(全彩乱涂机)
+
+! 2026年6月20日 https://www.423down.com
+www.423down.com##.excerpt > li:-abp-has(.info > .cat:-abp-contains(423Down))
+
+! 2026年9月19日 https://www.mefcl.com
+www.mefcl.com##.excerpt-sticky
+
+! 2026年9月26日 https://www.puresys.net
+www.puresys.net##.excerpt-sticky
+
+
+!--------------------------成人----------------------------------!
+! 2023-12-21 https://aabook.cyou
+##.f63092
+##.f63093
+###GGADIMG
+##div.block.mod:-abp-contains("性福宝")
+##div.block.mod:-abp-contains("推荐")
+##.clearfix.footer-fixed-nav
+aabook.cyou##body > div[style*="position: sticky"]
+aabook.cyou##.page_main > center
+
+! 2023-10-08 https://www.laowang2222.com
+www.laowang2222.com##posts.card.ajax-item.posts-item:-abp-contains(置顶)
+
+! 2023-12-22 https://hongxiuzhao.org
+||prizebrid.com/*.js$script
+!||prizebrid.com/app/*.js$script
+
+! 2024-04-03 https://hongxiud.com
+hongxiud.com##.browser_tips
+||ywhws.cn$script,domain=hongxiud.com
+
+
+!--------------------------博客----------------------------------!
+! 2023-10-22 https://www.yxssp.com
+www.yxssp.com##div.td-animation-stack.td_module_wrap.td_module_4:-abp-contains(得物)
+www.yxssp.com##div.td-animation-stack.td_module_wrap.td_module_4:-abp-contains(置顶)
+
+! ABP 不支持 uBO 专有的 +js(no-setTimeout-if, append) scriptlet 脚本注入，已跳过
+www.ghxi.com###wpcom-image-ad-10
+
+! 2023-10-22 https://www.lan-sha.com
+www.lan-sha.com##.post-item-container:-abp-contains(置顶)
+
+www.423down.com##.column2.content > ul.excerpt > li:-abp-contains(产品推广)
+
+!--------------------------体育----------------------------------!
+! 2023-10-29 https://ddkanqiu.net
+ddkanqiu.net##.container.footerimg
+
+!--------------------------论坛----------------------------------!
+
+! 2024-04-03 https://hostloc.com
+hostloc.com##.a_h.wp
+
+
+! 2024-05-08 https://www.52ch.net
+www.52ch.net##.plm.plc
+
+! 2024年8月18日 https://www.uaa004.com
+www.uaa004.com##.illustration_box
+
+! 2024年11月12日 https://fw.dic-china.com
+fw.dic-china.com##div:nth-of-type(5)
+
+! 2026年10月10日 https://aabook.cyou
+aabook.cyou###top
+
+! 2026年10月13日 https://fhxyacg.com
+fhxyacg.com/api.php?mod=ad*
