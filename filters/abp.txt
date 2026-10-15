@@ -71,3 +71,5 @@ aabook.cyou###top
 
 ! 2026年10月13日 https://fhxyacg.com
 fhxyacg.com/api.php?mod=ad*
+
+423down.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'adsBlocked')
