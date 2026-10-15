@@ -3,6 +3,8 @@ www.qy0.ru##li.gallary_item.li:-abp-contains(全彩乱涂机)
 
 ! 2026年6月20日 https://www.423down.com
 www.423down.com##.excerpt > li:-abp-has(.info > .cat:-abp-contains(423Down))
+423down.com##.ads-warning-dialog
+423down.com##.modal-backdrop
 
 ! 2026年9月19日 https://www.mefcl.com
 www.mefcl.com##.excerpt-sticky
@@ -71,4 +73,3 @@ aabook.cyou###top
 
 ! 2026年10月13日 https://fhxyacg.com
 fhxyacg.com/api.php?mod=ad*
-||423down.com/*/ads*.js$script,domain=423down.com
